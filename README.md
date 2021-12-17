@@ -1,1 +1,1 @@
-# CourSeera_AUB
+# CourSeera_AUB is a project contributed by me and Abbas Atout. The idea of the project is help AUB professors and students to know their classes time, place. Also, it can help to know in which room is their professor now. We used telegram bot to make the project more friendly user, so user can enter roomschedule room 204 and they can get the schedule of this room. Functions to use: whereisprof, whereprofwillbe, whoisnow, roomschedule, roomschedulebydate, roomschedulebydateandtime, profschedule.
